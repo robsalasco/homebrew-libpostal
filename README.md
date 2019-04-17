@@ -1,6 +1,6 @@
 # libpostal's homebrew repo
 
-libpostal is a powerful tool to normalize address using NLP around the world. If you are working like me with messy data (as always here in Chile) it will be very useful to process massive datasets. 
+libpostal is a powerful tool to normalize address using NLP around the world.
 
 ## What is this?
 
