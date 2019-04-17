@@ -5,6 +5,10 @@
 ## What is this?
 
 I use macOS and I need a convenient way to use the lib so I built a repo meanwhile a stable version is released.
+
+## Why didn't you submit a Formula to Homebrew?
+
+Because they don't allow alpha quality software.
  
 ## How can I use it?
 
