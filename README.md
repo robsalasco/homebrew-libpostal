@@ -6,4 +6,9 @@ libpostal is a powerful tool to normalize address using NLP around the world. If
 
 I use macOS and I need a convenient way to use the lib so I built a repo meanwhile a stable version is released.
  
+## How can I use it?
 
+```
+brew tap robsalasco/libpostal
+brew install libpostal
+```
