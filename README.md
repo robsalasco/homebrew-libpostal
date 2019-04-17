@@ -1,6 +1,6 @@
 # libpostal's homebrew repo
 
-libpostal is a powerful tool to normalize address using NLP around the world.
+[libpostal](https://github.com/openvenues/libpostal) is a powerful tool to normalize address using NLP around the world.
 
 ## What is this?
 
